@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+-[Kishor Chakrabortty] (https://github.com/kishchak02)
 -[Tse C](https://github.com/kyroC)
 -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Prasad Joshi](https://github.com/predatorprasad)
